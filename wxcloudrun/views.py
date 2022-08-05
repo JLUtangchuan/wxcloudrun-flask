@@ -13,6 +13,13 @@ def index():
     """
     return render_template('index.html')
 
+@app.route('/geturl')
+def index():
+    """
+    :return: return url
+    """
+    return "https://6f33d87d.r2.vip.cpolar.cn"
+
 
 @app.route('/api/count', methods=['POST'])
 def count():
