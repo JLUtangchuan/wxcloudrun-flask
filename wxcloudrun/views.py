@@ -18,7 +18,7 @@ def index():
     """
     :return: return url
     """
-    return "https://3c5ab9a6.r2.vip.cpolar.cn"
+    return "https://qingtongqi.mynatapp.cc"
 
 
 # @app.route('/api/count', methods=['POST'])
